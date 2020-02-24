@@ -34,11 +34,11 @@
 		<meta property="term" refines="#subject-1">sh2008115496</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This 3-act play takes place public house in County Mayo on the west coast of Ireland and tells the story a of a young man who is lionized after he claims to have killed his father.</dc:description>
+		<dc:description id="description">This 3-act play takes place in a public house on the west coast of Ireland and tells the story a of a young man who is lionized after he claims to have killed his father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			A young man stumbles into a rural public house in western Ireland claiming to be on the run after having killed his father. He immediately becomes a source of awe and an object of adoration and even love. But what happens when the inhabitants of this tiny village find out all is not as the stranger claims?
-			&lt;abbr class=&quot;name&quot;&gt;J. M.&lt;/abbr&gt; Synge first presented &lt;i&gt;The Playboy of the Western World&lt;/i&gt; at the Abbey Theatre in Dublin on the 26th of January, 1907. The performance immediately offended Irish nationalists by seemingly insulting the Irish people and language and the general public by being an offence against moral order. Before it was even finished, it was disrupted by a riot that soon spread out into the city. And when it was performed in 1911 in the &lt;abbr&gt;U.S.&lt;/abbr&gt;, the play was again greeted with scorn and the company arrested for an immoral performance.
-			But Synge himself attempts to explain, in the preface to his play, that rather than an attack on Irish Gaelic, he wanted to show the relationship between the imagination of the Irish country people and their speech, which is “rich and living,” and that his use of such language reflects reality in a way missing from other modern drama. He later insisted that his plot was not to be taken as social realism, but died in 1909 before the play finally gained broader appeal in the wider world, where significance of &lt;i&gt;The Playboy of the Western World&lt;/i&gt; was recognized and celebrated both for its characterizations and its rich use of dialect.
+			&lt;p&gt;A young man stumbles into a rural public house in western Ireland claiming to be on the run after having killed his father. He immediately becomes a source of awe and an object of adoration and even love. But what happens when the inhabitants of this tiny village find out all is not as the stranger claims?&lt;/p&gt;
+			&lt;p&gt;&lt;abbr class="name"&gt;J. M.&lt;/abbr&gt; Synge first presented &lt;i&gt;The Playboy of the Western World&lt;/i&gt; at the Abbey Theatre in Dublin on the 26th of January, 1907. The performance immediately offended Irish nationalists by seemingly insulting the Irish people and language and the general public by being an offence against moral order. Before it was even finished, it was disrupted by a riot that soon spread out into the city. And when it was performed in 1911 in the &lt;abbr&gt;U.S.&lt;/abbr&gt;, the play was again greeted with scorn and the company arrested for an immoral performance.&lt;/p&gt;
+			&lt;p&gt;But Synge himself attempts to explain, in the preface to his play, that rather than an attack on Irish Gaelic, he wanted to show the relationship between the imagination of the Irish country people and their speech, which is “rich and living,” and that his use of such language reflects reality in a way missing from other modern drama. He later insisted that his plot was not to be taken as social realism, but died in 1909 before the play finally gained broader appeal in the wider world, where significance of &lt;i&gt;The Playboy of the Western World&lt;/i&gt; was recognized and celebrated both for its characterizations and its rich use of dialect.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1240</dc:source>
@@ -52,6 +52,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._M._Synge</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79022811</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">George Morland</dc:contributor>
 		<meta property="file-as" refines="#artist">Morland, George</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Morland</meta>
