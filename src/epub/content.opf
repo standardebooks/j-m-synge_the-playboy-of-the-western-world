@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-m-synge/the-playboy-of-the-western-world</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-02-26T17:15:57Z</dc:date>
+		<meta property="dcterms:modified">2020-02-26T17:15:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,17 +34,17 @@
 		<meta property="term" refines="#subject-1">sh2008115496</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This 3-act play takes place in a public house on the west coast of Ireland and tells the story a of a young man who is lionized after he claims to have killed his father.</dc:description>
+		<dc:description id="description">A young man in the west coast of Ireland is lionized after he claims to have killed his father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A young man stumbles into a rural public house in western Ireland claiming to be on the run after having killed his father. He immediately becomes a source of awe and an object of adoration and even love. But what happens when the inhabitants of this tiny village find out all is not as the stranger claims?&lt;/p&gt;
-			&lt;p&gt;&lt;abbr class="name"&gt;J. M.&lt;/abbr&gt; Synge first presented &lt;i&gt;The Playboy of the Western World&lt;/i&gt; at the Abbey Theatre in Dublin on the 26th of January, 1907. The performance immediately offended Irish nationalists by seemingly insulting the Irish people and language and the general public by being an offence against moral order. Before it was even finished, it was disrupted by a riot that soon spread out into the city. And when it was performed in 1911 in the &lt;abbr&gt;U.S.&lt;/abbr&gt;, the play was again greeted with scorn and the company arrested for an immoral performance.&lt;/p&gt;
-			&lt;p&gt;But Synge himself attempts to explain, in the preface to his play, that rather than an attack on Irish Gaelic, he wanted to show the relationship between the imagination of the Irish country people and their speech, which is “rich and living,” and that his use of such language reflects reality in a way missing from other modern drama. He later insisted that his plot was not to be taken as social realism, but died in 1909 before the play finally gained broader appeal in the wider world, where significance of &lt;i&gt;The Playboy of the Western World&lt;/i&gt; was recognized and celebrated both for its characterizations and its rich use of dialect.&lt;/p&gt;
+			&lt;p&gt;A young man stumbles into a rural public house in western Ireland claiming to be on the run after having killed his father. He immediately becomes a source of awe and an object of adoration, and even love. But what happens when the inhabitants of this tiny village find out all is not as the stranger claims?&lt;/p&gt;
+			&lt;p&gt;J. M. Synge first presented &lt;i&gt;The Playboy of the Western World&lt;/i&gt; at the Abbey Theatre in Dublin on the 26th of January, 1907. The performance immediately offended Irish nationalists by seemingly insulting the Irish people and language, and the general public, by being an offense against moral order. Before it was even finished, it was disrupted by a riot that soon spread out into the city. When it was performed in 1911 in the U.S., the play was again greeted with scorn and the company arrested for an immoral performance.&lt;/p&gt;
+			&lt;p&gt;But as Synge himself attempts to explain in the preface to his play, rather than attack Irish Gaelic, he wanted to show the relationship between the imagination of the Irish country people and their speech, which is “rich and living,” and that his use of such language reflects reality in a way missing from other modern drama. He later insisted that his plot was not to be taken as social realism, but died in 1909 before the play finally gained broader appeal in the wider world. Since then the significance of &lt;i&gt;The Playboy of the Western World&lt;/i&gt; has been recognized and celebrated both for its characterizations and its rich use of dialect.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1240</dc:source>
 		<dc:source>https://archive.org/details/playboyofwestern00syngrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">21391</meta>
+		<meta property="se:reading-ease.flesch">83.36</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Playboy_of_the_Western_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-m-synge_the-playboy-of-the-western-world</meta>
 		<dc:creator id="author">J. M. Synge</dc:creator>
@@ -74,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
