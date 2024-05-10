@@ -42,7 +42,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1240</dc:source>
 		<dc:source>https://archive.org/details/playboyofwestern00syngrich</dc:source>
 		<meta property="se:word-count">21391</meta>
-		<meta property="se:reading-ease.flesch">83.36</meta>
+		<meta property="se:reading-ease.flesch">83.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Playboy_of_the_Western_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-m-synge_the-playboy-of-the-western-world</meta>
 		<dc:creator id="author">J. M. Synge</dc:creator>
