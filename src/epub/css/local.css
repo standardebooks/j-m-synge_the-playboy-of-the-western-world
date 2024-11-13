@@ -80,11 +80,6 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
-
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
