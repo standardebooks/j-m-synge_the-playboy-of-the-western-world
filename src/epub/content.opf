@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008115496</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A young man in the west coast of Ireland is lionized after he claims to have killed his father.</dc:abstract>
+		<meta property="schema:abstract">A young man in the west coast of Ireland is lionized after he claims to have killed his father.</meta>
 		<dc:description>
 			&lt;p&gt;A young man stumbles into a rural public house in western Ireland claiming to be on the run after having killed his father. He immediately becomes a source of awe and an object of adoration, and even love. But what happens when the inhabitants of this tiny village find out all is not as the stranger claims?&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-m-synge"&gt;&lt;abbr&gt;J. M.&lt;/abbr&gt; Synge&lt;/a&gt; first presented &lt;i&gt;The Playboy of the Western World&lt;/i&gt; at the Abbey Theatre in Dublin on the 26th of January, 1907. The performance immediately offended Irish nationalists by seemingly insulting the Irish people and language, and the general public, by being an offense against moral order. Before it was even finished, it was disrupted by a riot that soon spread out into the city. When it was performed in 1911 in the &lt;abbr&gt;U.S.&lt;/abbr&gt;, the play was again greeted with scorn and the company arrested for an immoral performance.&lt;/p&gt;
